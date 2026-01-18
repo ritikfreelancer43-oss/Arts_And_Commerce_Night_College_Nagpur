@@ -1,0 +1,299 @@
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: hsl(210, 20%, 98%);
+        color: hsl(222, 15%, 20%);
+    }
+    .btn-primary {
+        background: linear-gradient(135deg, hsl(355, 89%, 59%), hsl(357, 92%, 75%));
+        color: hsl(0, 0%, 100%);
+        box-shadow: 0 4px 20px -4px hsl(355, 89%, 59%, 0.2);
+    }
+    .btn-primary:hover {
+        box-shadow: 0 10px 30px -10px hsl(355, 89%, 59%, 0.3);
+    }
+    .btn-outline {
+        background: transparent;
+        color: hsl(222, 15%, 20%);
+        border: 1px solid hsl(210, 20%, 90%);
+    }
+    .btn-outline:hover {
+        background: hsl(210, 20%, 95%);
+        border-color: hsl(355, 89%, 59%);
+    }
+    .about {
+        background: rgba(248, 250, 252, 0.3);
+    }
+    .about-text p {
+        color: hsl(222, 15%, 50%);
+    }
+    .value-card {
+        background: hsl(0, 0%, 100%);
+        border: 1px solid hsl(210, 20%, 90%);
+    }
+    .value-card:hover {
+        box-shadow: 0 10px 30px -10px hsl(355, 89%, 59%, 0.3);
+    }
+    .value-card i {
+        color: hsl(355, 89%, 59%);
+    }
+    .value-card p {
+        color: hsl(222, 15%, 50%);
+    }
+    .stats-section {
+        background: linear-gradient(135deg, hsl(355, 89%, 59%), hsl(357, 92%, 75%));
+        color: hsl(0, 0%, 100%);
+    }
+    .stats-grid .stat-number {
+        color: hsl(0, 0%, 100%);
+    }
+    .stats-grid .stat-label {
+        color: rgba(255, 255, 255, 0.9);
+    }
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: hsl(222, 20%, 8%);
+        color: hsl(210, 20%, 95%);
+    }
+    .btn-primary {
+        background: linear-gradient(135deg, hsl(355, 97%, 61%), hsl(352, 97%, 73%));
+        color: hsl(222, 20%, 8%);
+        box-shadow: 0 4px 20px -4px hsl(355, 97%, 61%, 0.3);
+    }
+    .btn-primary:hover {
+        box-shadow: 0 10px 30px -10px hsl(355, 97%, 61%, 0.5);
+    }
+    .btn-outline {
+        background: transparent;
+        color: hsl(210, 20%, 95%);
+        border: 1px solid hsl(222, 20%, 20%);
+    }
+    .btn-outline:hover {
+        background: hsl(222, 20%, 15%);
+        border-color: hsl(355, 97%, 61%);
+    }
+    .about {
+        background: rgba(255, 255, 255, 0.05);
+    }
+    .about-text p {
+        color: hsl(210, 20%, 70%);
+    }
+    .value-card {
+        background: hsl(222, 20%, 10%);
+        border: 1px solid hsl(222, 20%, 20%);
+    }
+    .value-card:hover {
+        box-shadow: 0 10px 30px -10px hsl(355, 97%, 61%, 0.5);
+    }
+    .value-card i {
+        color: hsl(355, 97%, 61%);
+    }
+    .value-card p {
+        color: hsl(210, 20%, 70%);
+    }
+    .stats-section {
+        background: linear-gradient(135deg, hsl(355, 97%, 61%), hsl(352, 97%, 73%));
+        color: hsl(222, 20%, 8%);
+    }
+    .stats-grid .stat-number {
+        color: hsl(222, 20%, 8%);
+    }
+    .stats-grid .stat-label {
+        color: rgba(255, 255, 255, 0.9);
+    }
+}
+
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+/* Container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+@media (min-width: 1024px) {
+    .container {
+        padding: 0 1.5rem;
+    }
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .section-title {
+        font-size: 3rem;
+    }
+}
+
+.section-description {
+    font-size: 1.125rem;
+    text-align: center;
+    max-width: 48rem;
+    margin: 0 auto 4rem;
+    line-height: 1.7;
+}
+
+/* Buttons */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+}
+
+.btn-lg {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+/* About Section */
+.about {
+    padding: 5rem 0;
+}
+
+.about-content {
+    display: grid;
+    gap: 3rem;
+    margin-bottom: 4rem;
+}
+
+@media (min-width: 1024px) {
+    .about-content {
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+    }
+}
+
+.about-text h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+@media (min-width: 768px) {
+    .about-text h3 {
+        font-size: 2rem;
+    }
+}
+
+.about-text .btn {
+    margin-top: 1rem;
+}
+
+.values-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    animation: scaleIn 0.6s ease;
+}
+
+.value-card {
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    animation: slideUp 0.6s ease;
+}
+
+.value-card:nth-child(2) { animation-delay: 0.1s; }
+.value-card:nth-child(3) { animation-delay: 0.2s; }
+.value-card:nth-child(4) { animation-delay: 0.3s; }
+
+.value-card:hover {
+    transform: scale(1.05);
+}
+
+.value-card i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.value-card h4 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.value-card p {
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
+
+.stats-section {
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    animation: fadeIn 0.6s ease;
+}
+
+@media (min-width: 768px) {
+    .stats-section {
+        padding: 3rem;
+    }
+}
+
+.stats-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+    .stats-section h3 {
+        font-size: 2rem;
+    }
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+}
+
+@media (min-width: 768px) {
+    .stats-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.stats-grid .stat-number {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+@media (min-width: 768px) {
+    .stats-grid .stat-number {
+        font-size: 4rem;
+    }
+}
