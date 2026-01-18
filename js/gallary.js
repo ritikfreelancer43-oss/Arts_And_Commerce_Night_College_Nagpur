@@ -1,23 +1,27 @@
 const images = [
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-kyoto.jpeg", title: "Kyoto", strip: "one" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-austria.jpeg", title: "Halstatt", strip: "one" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-peru.jpeg", title: "Peru", strip: "one" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-rio.jpeg", title: "Rio", strip: "one" },
+      { src: "./img/1.jpg", title: "Kyoto", strip: "one" },
+      { src: "./img/2.jpg", title: "Halstatt", strip: "one" },
+      { src: "./img/3.jpg", title: "Peru", strip: "one" },
+      { src: "./img/4.jpg", title: "Rio", strip: "one" },
+      { src: "./img/20.png", title: "Rio", strip: "one" },
 
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-italy.jpeg", title: "Italy", strip: "two" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-osaka.jpeg", title: "Osaka", strip: "two" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-bali.jpeg", title: "Bali", strip: "two" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-paris2.jpg", title: "Paris", strip: "two" },
+      { src: "./img/5.jpg", title: "Italy", strip: "two" },
+      { src: "./img/6.jpg", title: "Osaka", strip: "two" },
+      { src: "./img/7.jpg", title: "Bali", strip: "two" },
+      { src: "./img/8.jpg", title: "Paris", strip: "two" },
+      { src: "./img/19.png", title: "Paris", strip: "two" },
 
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-cusco.jpeg", title: "Cusco", strip: "three" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-rome.jpeg", title: "Rome", strip: "three" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-paris.jpeg", title: "Paris", strip: "three" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-bali2.jpeg", title: "Bali", strip: "three" },
+      { src: "./img/16.jpg", title: "Cusco", strip: "three" },
+      { src: "./img/9.jpg", title: "Rome", strip: "three" },
+      { src: "./img/10.jpg", title: "Paris", strip: "three" },
+      { src: "./img/18.png", title: "Paris", strip: "three" },
+      { src: "./img/11.jpg", title: "Bali", strip: "three" },
 
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-milan.jpeg", title: "Milan", strip: "four" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-budapest.jpg", title: "Budapest", strip: "four" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-vienna.jpg", title: "Vienna", strip: "four" },
-      { src: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/567707/gg-mexico.jpg", title: "Mexico", strip: "four" }
+      { src: "./img/12.jpg", title: "Milan", strip: "four" },
+      { src: "./img/13.png", title: "Budapest", strip: "four" },
+      { src: "./img/14.png", title: "Vienna", strip: "four" },
+      { src: "./img/17.png", title: "Vienna", strip: "four" },
+      { src: "./img/15.png", title: "Mexico", strip: "four" }
     ];
 
     const gallery = document.getElementById("gallery");

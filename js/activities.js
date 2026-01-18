@@ -12,18 +12,18 @@
         description: "Comprehensive literature, writing, and communication skills development.",
         features: ["Creative Writing", "Public Speaking", "Critical Analysis", "World Literature"]
       },
-      {
-        icon: "fas fa-microscope",
-        title: "STEM Programs",
-        description: "Science, Technology, Engineering, and Mathematics with hands-on learning.",
-        features: ["Laboratory Research", "Robotics", "Coding", "Environmental Science"]
-      },
-      {
-        icon: "fas fa-palette",
-        title: "Arts & Design",
-        description: "Visual and performing arts to foster creativity and self-expression.",
-        features: ["Digital Art", "Theater", "Music Production", "Graphic Design"]
-      },
+      // {
+      //   icon: "fas fa-microscope",
+      //   title: "STEM Programs",
+      //   description: "Science, Technology, Engineering, and Mathematics with hands-on learning.",
+      //   features: ["Laboratory Research", "Robotics", "Coding", "Environmental Science"]
+      // },
+      // {
+      //   icon: "fas fa-palette",
+      //   title: "Arts & Design",
+      //   description: "Visual and performing arts to foster creativity and self-expression.",
+      //   features: ["Digital Art", "Theater", "Music Production", "Graphic Design"]
+      // },
       {
         icon: "fas fa-calculator",
         title: "Mathematics",
@@ -36,12 +36,12 @@
         description: "Understanding cultures, history, and global citizenship.",
         features: ["World History", "Geography", "Economics", "Civic Engagement"]
       },
-      {
-        icon: "fas fa-music",
-        title: "Performing Arts",
-        description: "Music, dance, and theater programs for artistic development.",
-        features: ["Orchestra", "Jazz Band", "Drama Club", "Dance Ensemble"]
-      }
+      // {
+      //   icon: "fas fa-music",
+      //   title: "Performing Arts",
+      //   description: "Music, dance, and theater programs for artistic development.",
+      //   features: ["Orchestra", "Jazz Band", "Drama Club", "Dance Ensemble"]
+      // }
     ];
 
     // ---------------------
@@ -49,30 +49,30 @@
     // ---------------------
     const highlights = [
       {
-        title: "Vibrant Campus Life",
+        title: "Vibrant Life",
         description: "Students engage in diverse activities that build friendships, develop skills, and create lasting memories.",
-        stats: ["95% Student Participation", "200+ Events", "50+ Partnerships"],
+        stats: ["95% Student Participation", "200+ Events", "Joyful Journey"],
         image: "https://media.istockphoto.com/id/2105100634/photo/happy-university-students-e-learning-while-using-laptop-at-campus.jpg?s=612x612&w=0&k=20&c=aM5zY2HI6Nu5xBFxtT0RgrVSBqmfj6MUlt6cVMCI-N8="
       },
       {
-        title: "Innovation Hub",
+        title: "Leadership Hub",
         description: "State-of-the-art facilities including maker spaces, science labs, and technology centers.",
-        stats: [" Lab", " Learning Center", " Workshop"],
+        stats: ["Future Leaders", "Empower And Grow", "Inspire To Lead"],
         image: "https://thumbs.dreamstime.com/b/successful-hispanic-female-student-group-multi-ethnic-college-students-classroom-university-178637283.jpg"
       }
     ];
 
     const activities = [
-      { icon: "fas fa-trophy", title: "Sports & Athletics", description: "Competitive and recreational sports programs for all skill levels.", highlight: "15+ Sports Teams" },
-      { icon: "fas fa-users", title: "Clubs & Organizations", description: "Over 30 clubs covering academics, arts, service, and special interests.", highlight: "30+ Active Clubs" },
+      { icon: "fas fa-trophy", title: "Sports & Athletics", description: "Competitive and recreational sports programs for all skill levels.", highlight: "Diverse Sports Teams" },
+      { icon: "fas fa-users", title: "Clubs & Organizations", description: "Clubs covering academics, arts, service, and special interests.", highlight: "Vibrant Student Clubs" },
       { icon: "fas fa-camera", title: "Events & Traditions", description: "Annual events, cultural celebrations, and school traditions.", highlight: "Year-Round Events" },
       { icon: "fas fa-rocket", title: "Leadership Programs", description: "Student government, peer mentoring, and leadership development.", highlight: "Future Leaders" }
     ];
 
     const testimonial = {
       quote: "Arts and Night College  gave me the confidence to pursue my dreams and the skills to achieve them. The friendships I made and the experiences I had shaped who I am today.",
-      author: "Sarah Chen",
-      title: "Class of 2023, Harvard University"
+      author: "Dhanraj Sheshrao Balpande",
+      title: "PSI, Maharashtra Police"
     };
 
     // ---------------------

@@ -4,26 +4,26 @@ const messages = {
         name: "Dr. Rajesh Kumar",
         title: "Principal",
         message: "Welcome to Excellence College, where we are committed to nurturing minds and shaping futures. Our institution stands as a beacon of educational excellence, fostering innovation, critical thinking, and holistic development. We believe in empowering our students with knowledge, skills, and values that will enable them to become responsible global citizens and leaders of tomorrow.",
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxf9a4Z2HRf1tYhkCYdBGOpphTRgidkHiK5Q&s"
+        img: "../img/principle.png"
       },
       hi: {
         name: "डॉ. राजेश कुमार",
         title: "प्राचार्य",
         message: "एक्सीलेंस कॉलेज में आपका स्वागत है, जहाँ हम मन को पोषित करने और भविष्य को आकार देने के लिए प्रतिबद्ध हैं। हमारा संस्थान शैक्षिक उत्कृष्टता का प्रतीक है, जो नवाचार, आलोचनात्मक सोच और समग्र विकास को बढ़ावा देता है। हम अपने छात्रों को ज्ञान, कौशल और मूल्यों के साथ सशक्त बनाने में विश्वास करते हैं।",
-        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxf9a4Z2HRf1tYhkCYdBGOpphTRgidkHiK5Q&s"
+        img: "../img/principle.png"
       }
     },
     vice: {
       en: {
         name: "Dr. Priya Sharma",
-        title: "Vice Principal",
-        message: "At Excellence College, we strive to create an environment that encourages academic excellence and personal growth. Our dedicated faculty and state-of-the-art facilities ensure that every student receives the highest quality education. We are committed to building character, fostering creativity, and preparing our students for the challenges of the modern world.",
+        title: "Librarian",
+        message: "We hope your semester is off to a great start! As your library team, we’re here to support your academic journey with resources, study spaces, and guidance tailored to your needs as evening and nontraditional learners. Arts & Commerce Night College Assured you to quick access of all the facilities which required in the library.",
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Oh1ff3nnQk6C0rOLLXuZ0a8f6M-hWSI_w&s"
       },
       hi: {
         name: "डॉ. प्रिया शर्मा",
-        title: "उप-प्राचार्य",
-        message: "एक्सीलेंस कॉलेज में, हम एक ऐसा माहौल बनाने का प्रयास करते हैं जो शैक्षणिक उत्कृष्टता और व्यक्तिगत विकास को प्रोत्साहित करता है। हमारे समर्पित शिक्षक और अत्याधुनिक सुविधाएं सुनिश्चित करती हैं कि प्रत्येक छात्र को उच्चतम गुणवत्ता की शिक्षा मिले।",
+        title: "ग्रंथालयकर्मी",
+        message: "आम्हाला आशा आहे की तुमच्या सत्राची सुरुवात चांगली झाली असेल! तुमच्या ग्रंथालय टीम म्हणून, आम्ही तुमच्या शैक्षणिक प्रवासाला संसाधने, अभ्यासाची जागा आणि संध्याकाळच्या आणि पारंपारिक नसलेल्या विद्यार्थ्यांच्या गरजांनुसार मार्गदर्शन देऊन पाठिंबा देण्यासाठी येथे आहोत. कला आणि वाणिज्य रात्र महाविद्यालयाने तुम्हाला ग्रंथालयात आवश्यक असलेल्या सर्व सुविधा जलद उपलब्ध करून देण्यাচी हमी दिली.",
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5Oh1ff3nnQk6C0rOLLXuZ0a8f6M-hWSI_w&s"
       }
     }

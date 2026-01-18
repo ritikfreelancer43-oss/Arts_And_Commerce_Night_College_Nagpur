@@ -20,16 +20,16 @@ const stats = [
 
     // Facilities with images
     const facilities = [
-      { title: "Fine Arts Studio", description: "Painting, sculpture, and design spaces to inspire creativity.", category: "arts", image: "https://images.livemint.com/rf/Image-621x414/LiveMint/Period1/2015/10/05/Photos/DSC_97780-kZSH--621x414@LiveMint.JPG" },
-      { title: "Performing Arts Theatre", description: "State-of-the-art auditorium for theatre, dance, and music.", category: "arts", image: "https://content.jdmagicbox.com/v2/comp/mumbai/90/022p33090/catalogue/elphinstone-college-of-arts-science-and-commerce-fort-mumbai-colleges-358ee-250.jpg" },
+      { title: "Workshops & Seminars", description: "Regular sessions to enhance practical skills and knowledge.", category: "arts", image: "../img/15.png" },
+      { title: "Cultural Programs", description: "Platforms to showcase artistic talents through exhibitions, performances, and festivals.", category: "arts", image: "https://content.jdmagicbox.com/v2/comp/mumbai/90/022p33090/catalogue/elphinstone-college-of-arts-science-and-commerce-fort-mumbai-colleges-358ee-250.jpg" },
       { title: "Media & Film Lab", description: "Facilities for journalism, film editing, and digital storytelling.", category: "arts", image: "https://www.shutterstock.com/image-photo/electronics-factory-caucasian-male-electrical-260nw-2492758797.jpg" },
-      { title: "Commerce Simulation Lab", description: "Practical business simulations for finance, trade, and economics.", category: "commerce", image: "https://www.shutterstock.com/image-photo/electronics-factory-caucasian-male-electrical-260nw-2492758797.jpg" },
-      { title: "Entrepreneurship Hub", description: "Startup incubation, pitch events, and mentorship for young entrepreneurs.", category: "commerce", image: "https://www.shutterstock.com/image-photo/electronics-factory-caucasian-male-electrical-260nw-2492758797.jpg" },
+      { title: "Industrial Visits", description: "Gain real-world exposure by visiting industries and connecting classroom learning with practical experience.", category: "commerce", image: "./img/20.png" },
+      { title: "Online Business Learning", description: "Learn anytime, anywhere with our flexible online learning platform.", category: "commerce", image: "./img/c1.png" },
       { title: "Accounting & Finance Center", description: "Equipped with accounting software, stock market simulations.", category: "commerce", image: "https://www.shutterstock.com/image-photo/electronics-factory-caucasian-male-electrical-260nw-2492758797.jpg" },
-      { title: "Sports & Recreation Center", description: "Facilities for physical wellness, including gym and indoor sports.", category: "life", image: "https://images.pexels.com/photos/1326947/pexels-photo-1326947.jpeg?cs=srgb&dl=pexels-george-dolgikh-551816-1326947.jpg&fm=jpg" },
-      { title: "Student Dining Hall", description: "Nutritious meals and global cuisines for all students.", category: "life", image: "https://media.istockphoto.com/id/2105091005/photo/young-student-taking-notes-while-e-learning-on-laptop-at-the-university.jpg?s=612x612&w=0&k=20&c=5AoTWNFmHm-HeQfx0FzB3LPm3MKQXgokYelEvmC_47E=" },
+      { title: "Leadership through Voice", description: "Encourages students to analyze topics deeply and present well-structured arguments.", category: "life", image: "./img/l2.png" },
+      { title: "Mindfulness & Meditation Yoga", description: "A blend of yoga and meditation practices to enhance concentration and inner peace.", category: "life", image: "./img/l1.png" },
       { title: "Accounting & Finance Center", description: "Equipped with accounting software, stock market simulations.", category: "commerce", image: "https://images.pexels.com/photos/1326947/pexels-photo-1326947.jpeg?cs=srgb&dl=pexels-george-dolgikh-551816-1326947.jpg&fm=jpg" },
-      { title: "Student Dormitories", description: "Safe, comfortable housing fostering learning and community.", category: "life", image: "https://media.istockphoto.com/id/2105100634/photo/happy-university-students-e-learning-while-using-laptop-at-campus.jpg?s=612x612&w=0&k=20&c=aM5zY2HI6Nu5xBFxtT0RgrVSBqmfj6MUlt6cVMCI-N8=" }
+      { title: "Exploration & Learning", description: "Trips designed to broaden horizons, explore new cultures, and learn beyond the classroom.", category: "life", image: "./img/9.jpg" }
       
     ];
 

@@ -39,6 +39,9 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    
+   
+    
 }
 
 .hero-overlay {
@@ -123,7 +126,7 @@ body {
 
 .slide img {
     width: 100%;
-    height: 560px; /* You can adjust this height */
+    height: 100%; /* You can adjust this height */
     object-fit: cover; /* Keeps aspect ratio while covering the area */
     object-position: center; /* Centers the image */
 }
@@ -146,6 +149,9 @@ body {
             padding: 0.7rem 1.2rem;
             font-size: 0.95rem;
         }
+        .hero {
+        height: 75vh; /* Adjust hero height for tablets */
+    }
     }
     @media (max-width: 480px) {
         .hero-title {
@@ -163,4 +169,7 @@ body {
             width: 80%;
             margin: 0.3rem 0;
         }
+        .hero {
+        height: 70vh; /* Smaller hero on phones */
+    }
     }

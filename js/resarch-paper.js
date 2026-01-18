@@ -18,7 +18,7 @@
                             category: 'Digital Commerce',
                             abstract: 'The COVID-19 pandemic has fundamentally altered the landscape of Indian commerce, accelerating digital adoption across various sectors. This study presents a comprehensive analysis of the transformation patterns observed in retail, banking, and e-commerce sectors. Through extensive surveys and case studies of 500+ businesses, we examine the adaptation strategies, challenges faced, and long-term implications of this digital shift. Our findings reveal that businesses that embraced digital technologies early showed 40% better resilience during the pandemic. The paper also discusses policy implications and provides recommendations for sustained digital growth in the post-pandemic era.',
                             keywords: ['Digital Commerce', 'COVID-19 Impact', 'E-commerce', 'Indian Markets', 'Digital Transformation'],
-                            downloadUrl: '/downloads/digital-transformation-commerce.pdf',
+                            downloadUrl: 'https://hislopcollege.ac.in/wp-content/uploads/2025/06/RTMNU-Academic-Calendar-2025-26.pdf',
                             pages: 45,
                             language: 'English'
                         },
@@ -232,12 +232,14 @@
         }
 
         function handleDownload() {
-            const title = document.getElementById('detail-title').textContent;
-            alert(`Downloading "${title}"... (Simulated download)`);
-            setTimeout(() => {
-                alert('Download Complete: Research paper has been downloaded successfully.');
-            }, 2000);
-        }
+    const paper = researchPapers.find(p => p.title === document.getElementById('detail-title').textContent);
+    if (paper && paper.downloadUrl) {
+        // Redirect user to the download URL
+        window.location.href = paper.downloadUrl;
+    } else {
+        alert('Download link not available for this paper.');
+    }
+}
 
         // Init
         document.getElementById('search-input').addEventListener('input', e => {
