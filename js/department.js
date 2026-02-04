@@ -5,7 +5,7 @@ const DATA = {
           enTitle: "Department of Arts",
           hiTitle: "कला विभाग",
           enDesc: "Nurturing creativity and critical thinking through literature, philosophy, and cultural studies",
-          hiDesc: "साहित्य, दर्शन और सांस्कृतिक अध्ययन के माध्यम से रचनात्मकता और आलोचनात्मक सोच का पोषण",
+          hiDesc: "साहित्य, तत्वज्ञान आणि सांस्कृतिक अभ्यासाद्वारे सर्जनशीलता आणि समीक्षात्मक विचारसरणीचे पोषण करणे.",
           icon: "book",
           hod: {
             nameEn: "Dr. Rajesh Kumar Sharma",
@@ -15,40 +15,40 @@ const DATA = {
             quoteEn:
               "Our Arts Department is committed to fostering intellectual curiosity and cultural awareness. We believe in developing well-rounded individuals who can contribute meaningfully to society through their understanding of humanities and social sciences.",
             quoteHi:
-              "हमारा कला विभाग बौद्धिक जिज्ञासा और सांस्कृतिक जागरूकता को बढ़ावा देने के लिए प्रतिबद्ध है। हम ऐसे व्यापक व्यक्तित्व विकसित करने में विश्वास करते हैं जो मानविकी और सामाजिक विज्ञान की समझ के माध्यम से समाज में सार्थक योगदान दे सकें।"
+              "आमचा कला विभाग बौद्धिक कुतूहल आणि सांस्कृतिक जागरूकता वाढवण्यासाठी वचनबद्ध आहे. मानविकी आणि सामाजिक शास्त्रांच्या त्यांच्या समजुतीद्वारे समाजात अर्थपूर्ण योगदान देऊ शकतील अशा सुसंस्कृत व्यक्ती विकसित करण्यावर आमचा विश्वास आहे."
           },
           faculty: [
-            {
-              nameEn: "Prof. Amit Verma",
-              nameHi: "प्रो. अमित वर्मा",
-              titleEn: "Associate Professor — Hindi Literature",
-              titleHi: "सहयोगी प्राध्यापक — हिंदी साहित्य",
-              qual: "M.A., Ph.D. in Hindi",
-              expYears: 15,
-              img: "https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=400&auto=format&fit=crop",
-              aria: "Faculty: Prof. Amit Verma, Hindi Literature"
-            },
-            {
-              nameEn: "Dr. Priya Gupta",
-              nameHi: "डॉ. प्रिया गुप्ता",
-              titleEn: "Assistant Professor — English Literature",
-              titleHi: "सहायक प्राध्यापक — अंग्रेजी साहित्य",
-              qual: "M.A., Ph.D. in English",
-              expYears: 12,
-              img: "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=400&auto=format&fit=crop",
-              aria: "Faculty: Dr. Priya Gupta, English Literature"
-            },
+            // {
+            //   nameEn: "Prof. Amit Verma",
+            //   nameHi: "प्रो. अमित वर्मा",
+            //   titleEn: "Associate Professor — Hindi Literature",
+            //   titleHi: "सहयोगी प्राध्यापक — हिंदी साहित्य",
+            //   qual: "M.A., Ph.D. in Hindi",
+            //   expYears: 15,
+            //   img: "https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=400&auto=format&fit=crop",
+            //   aria: "Faculty: Prof. Amit Verma, Hindi Literature"
+            // },
+            // {
+            //   nameEn: "Dr. Priya Gupta",
+            //   nameHi: "डॉ. प्रिया गुप्ता",
+            //   titleEn: "Assistant Professor — English Literature",
+            //   titleHi: "सहायक प्राध्यापक — अंग्रेजी साहित्य",
+            //   qual: "M.A., Ph.D. in English",
+            //   expYears: 12,
+            //   img: "https://images.unsplash.com/photo-1554151228-14d9def656e4?q=80&w=400&auto=format&fit=crop",
+            //   aria: "Faculty: Dr. Priya Gupta, English Literature"
+            // },
             
-            {
-              nameEn: "Prof. Suresh Pandey",
-              nameHi: "प्रो. सुरेश पांडे",
-              titleEn: "Professor — Philosophy",
-              titleHi: "प्राध्यापक — दर्शनशास्त्र",
-              qual: "M.A., Ph.D. in Philosophy",
-              expYears: 20,
-              img: "https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=400&auto=format&fit=crop",
-              aria: "Faculty: Prof. Suresh Pandey, Philosophy"
-            }
+            // {
+            //   nameEn: "Prof. Suresh Pandey",
+            //   nameHi: "प्रो. सुरेश पांडे",
+            //   titleEn: "Professor — Philosophy",
+            //   titleHi: "प्राध्यापक — दर्शनशास्त्र",
+            //   qual: "M.A., Ph.D. in Philosophy",
+            //   expYears: 20,
+            //   img: "https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=400&auto=format&fit=crop",
+            //   aria: "Faculty: Prof. Suresh Pandey, Philosophy"
+            // }
           ]
         },
         {
@@ -56,7 +56,7 @@ const DATA = {
           enTitle: "Department of Commerce",
           hiTitle: "वाणिज्य विभाग",
           enDesc: "Preparing future business leaders through comprehensive training in commerce, economics, and management",
-          hiDesc: "वाणिज्य, अर्थशास्त्र और प्रबंधन में व्यापक प्रशिक्षण के माध्यम से भविष्य के व्यापारिक नेताओं को तैयार करना",
+          hiDesc: "वाणिज्य, अर्थशास्त्र आणि व्यवस्थापन या विषयांमधील व्यापक प्रशिक्षणाद्वारे भविष्यातील व्यावसायिक नेत्यांना तयार करणे.",
           icon: "users",
           hod: {
             nameEn: "Dr. Meera Patel",
@@ -66,39 +66,39 @@ const DATA = {
             quoteEn:
               "The Commerce Department strives to provide students with a strong foundation in business principles and economic theories. We focus on practical learning and industry relevance to ensure our graduates are well-prepared for the corporate world.",
             quoteHi:
-              "वाणिज्य विभाग छात्रों को व्यावसायिक सिद्धांतों और आर्थिक सिद्धांतों में मजबूत आधार प्रदान करने का प्रयास करता है। हम व्यावहारिक शिक्षा और उद्योग की प्रासंगिकता पर ध्यान केंद्रित करते हैं ताकि यह सुनिश्चित हो सके कि हमारे स्नातक कॉर्पोरेट जगत के लिए अच्छी तरह तैयार हों।"
+              "वाणिज्य विभाग विद्यार्थ्यांना व्यवसाय तत्त्वे आणि आर्थिक सिद्धांतांमध्ये एक मजबूत पाया प्रदान करण्याचा प्रयत्न करतो. आमचे पदवीधर कॉर्पोरेट जगासाठी चांगल्या प्रकारे तयार आहेत याची खात्री करण्यासाठी आम्ही व्यावहारिक शिक्षण आणि उद्योग प्रासंगिकतेवर लक्ष केंद्रित करतो."
           },
           faculty: [
-            {
-              nameEn: "Dr. Neha Singh",
-              nameHi: "डॉ. नेहा सिंह",
-              titleEn: "Associate Professor — Accounting",
-              titleHi: "सहयोगी प्राध्यापक — लेखांकन",
-              qual: "M.Com, Ph.D. in Commerce",
-              expYears: 14,
-              img: "https://images.unsplash.com/photo-1551836022-4c4c79ecde51?q=80&w=400&auto=format&fit=crop",
-              aria: "Faculty: Dr. Neha Singh, Accounting"
-            },
-            {
-              nameEn: "Prof. Vikash Agarwal",
-              nameHi: "प्रो. विकाश अग्रवाल",
-              titleEn: "Professor — Economics",
-              titleHi: "प्राध्यापक — अर्थशास्त्र",
-              qual: "M.A., Ph.D. in Economics",
-              expYears: 18,
-              img: "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=400&auto=format&fit=crop",
-              aria: "Faculty: Prof. Vikash Agarwal, Economics"
-            },
-            {
-              nameEn: "Dr. Anita Joshi",
-              nameHi: "डॉ. अनीता जोशी",
-              titleEn: "Assistant Professor — Business Management",
-              titleHi: "सहायक प्राध्यापक — व्यवसाय प्रबंधन",
-              qual: "MBA, Ph.D. in Management",
-              expYears: 10,
-              img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop",
-              aria: "Faculty: Dr. Anita Joshi, Business Management"
-            }
+            // {
+            //   nameEn: "Dr. Neha Singh",
+            //   nameHi: "डॉ. नेहा सिंह",
+            //   titleEn: "Associate Professor — Accounting",
+            //   titleHi: "सहयोगी प्राध्यापक — लेखांकन",
+            //   qual: "M.Com, Ph.D. in Commerce",
+            //   expYears: 14,
+            //   img: "https://images.unsplash.com/photo-1551836022-4c4c79ecde51?q=80&w=400&auto=format&fit=crop",
+            //   aria: "Faculty: Dr. Neha Singh, Accounting"
+            // },
+            // {
+            //   nameEn: "Prof. Vikash Agarwal",
+            //   nameHi: "प्रो. विकाश अग्रवाल",
+            //   titleEn: "Professor — Economics",
+            //   titleHi: "प्राध्यापक — अर्थशास्त्र",
+            //   qual: "M.A., Ph.D. in Economics",
+            //   expYears: 18,
+            //   img: "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=400&auto=format&fit=crop",
+            //   aria: "Faculty: Prof. Vikash Agarwal, Economics"
+            // },
+            // {
+            //   nameEn: "Dr. Anita Joshi",
+            //   nameHi: "डॉ. अनीता जोशी",
+            //   titleEn: "Assistant Professor — Business Management",
+            //   titleHi: "सहायक प्राध्यापक — व्यवसाय प्रबंधन",
+            //   qual: "MBA, Ph.D. in Management",
+            //   expYears: 10,
+            //   img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop",
+            //   aria: "Faculty: Dr. Anita Joshi, Business Management"
+            // }
           ]
         }
       ],

@@ -1,16 +1,16 @@
 const messages = {
     principal: {
       en: {
-        name: "Dr. Rajesh Kumar",
+        name: "Shri. Hiralalji Meshram",
         title: "Principal",
-        message: "Welcome to Excellence College, where we are committed to nurturing minds and shaping futures. Our institution stands as a beacon of educational excellence, fostering innovation, critical thinking, and holistic development. We believe in empowering our students with knowledge, skills, and values that will enable them to become responsible global citizens and leaders of tomorrow.",
-        img: "../img/principle.png"
+        message: "The only thing you absolutely have to know is the location of the library so we believe in Earning with Learning Concept for Arts & Commerce Night College Students.",
+        img: "./img/principle.png"
       },
       hi: {
-        name: "डॉ. राजेश कुमार",
+        name: "श्री. हिरालालजी मेश्राम",
         title: "प्राचार्य",
-        message: "एक्सीलेंस कॉलेज में आपका स्वागत है, जहाँ हम मन को पोषित करने और भविष्य को आकार देने के लिए प्रतिबद्ध हैं। हमारा संस्थान शैक्षिक उत्कृष्टता का प्रतीक है, जो नवाचार, आलोचनात्मक सोच और समग्र विकास को बढ़ावा देता है। हम अपने छात्रों को ज्ञान, कौशल और मूल्यों के साथ सशक्त बनाने में विश्वास करते हैं।",
-        img: "../img/principle.png"
+        message: "तुम्हाला फक्त ग्रंथालयाचे स्थान माहित असणे आवश्यक आहे, म्हणून आम्ही कला आणि वाणिज्य रात्रीच्या महाविद्यालयीन विद्यार्थ्यांसाठी शिक्षणासह कमाईच्या संकल्पनेवर विश्वास ठेवतो.",
+        img: "./img/principle.png"
       }
     },
     vice: {

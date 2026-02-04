@@ -1,6 +1,6 @@
   const imageSources = [
-        { src: "https://www.pwscollege.edu.in/images/1.jpg", alt: "Bloom School Campus" },
-        { src: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BAPS_Swaminarayan_Temple%2C_Nagpur.jpg/1200px-BAPS_Swaminarayan_Temple%2C_Nagpur.jpg", alt: "Bloom School Library" },
+        { src: "./img/24.JPEG", alt: "Bloom School Campus" },
+        { src: "https://content.jdmagicbox.com/v2/comp/delhi/l2/011pxx11.xx11.170919220015.u9l2/catalogue/aicte-office-vasant-vihar-delhi-schools-2mpw1ridwr.jpg", alt: "Bloom School Library" },
         { src: "https://images.shiksha.com/mediadata/images/1526979654phpXmuhOZ.jpeg", alt: "Bloom School Sports Ground" }
     ];
 

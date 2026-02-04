@@ -10,71 +10,105 @@
                     researchPapers: [
                         {
                             id: '1',
-                            title: 'Digital Transformation in Indian Commerce: A Post-COVID Analysis',
-                            description: 'This paper examines the accelerated digital transformation in Indian commercial sectors following the COVID-19 pandemic, analyzing market shifts and adaptation strategies.',
-                            authors: ['Dr. Priya Sharma', 'Prof. Rajesh Kumar', 'Dr. Anita Patel'],
-                            department: 'Commerce',
-                            publicationDate: '2024-01-15',
-                            category: 'Digital Commerce',
-                            abstract: 'The COVID-19 pandemic has fundamentally altered the landscape of Indian commerce, accelerating digital adoption across various sectors. This study presents a comprehensive analysis of the transformation patterns observed in retail, banking, and e-commerce sectors. Through extensive surveys and case studies of 500+ businesses, we examine the adaptation strategies, challenges faced, and long-term implications of this digital shift. Our findings reveal that businesses that embraced digital technologies early showed 40% better resilience during the pandemic. The paper also discusses policy implications and provides recommendations for sustained digital growth in the post-pandemic era.',
-                            keywords: ['Digital Commerce', 'COVID-19 Impact', 'E-commerce', 'Indian Markets', 'Digital Transformation'],
-                            downloadUrl: 'https://hislopcollege.ac.in/wp-content/uploads/2025/06/RTMNU-Academic-Calendar-2025-26.pdf',
-                            pages: 45,
+                            title: 'Use of N-LIST E-Resources By the Users in Affiliated Colleges in Nagpur District ',
+                            description: 'This study analyzes N-LIST e-resource usage among affiliated colleges in Nagpur, examining demographics, access patterns, awareness, purposes, satisfaction, and utilization.',
+                            authors: ['Badwaik Sachin', 'Khobaragade Ashokkumar'],
+                            department: 'Arts',
+                            publicationDate: '2020-12-12',
+                            category: 'Digital Arts and Media',
+                            abstract: `Theresearch paper, describes use of N-LIST e-resources
+by affiliated college users in Nagpur District. The study
+aims to verify the optimum utilization of users for use of
+N-LIST e-resources in affiliated college in Nagpur
+District, Gender-wise distribution users, Age group wise
+users, place of access, sources of awareness of N-LIST,
+Purpose of use and level of satisfaction are the variables
+of this study to be find out. For this purpose, the
+researcher prepared a well-structured Google Form
+questionnaire as a tool of data collection for N-LIST
+Users (Faculty Members, PG Students and Research
+Scholars) and the same was analyzed and presented with
+tables and graphs. The article summarized the output
+results with highlighting major findings, conclusion and
+suggestions.`,
+                            keywords: ['N-LIST e-resources', 'N-LIST Programme', 'Electronic Resources', 'Library Consortium', 'Library Users'],
+
+                            downloadUrl: 'https://drive.google.com/file/d/1fcOlVrTuFYBGlDKuZPP5jBBxIW4S78yH/view?usp=drive_link',
+                            pages: 104,
                             language: 'English'
                         },
                         {
                             id: '2',
-                            title: 'Sustainable Art Practices in Contemporary Indian Culture',
-                            description: 'An exploration of how contemporary Indian artists are incorporating sustainable practices and environmental consciousness into their artistic expressions.',
-                            authors: ['Dr. Maya Krishnan', 'Prof. Suresh Nair'],
+                            title: `SOCIAL MEDIA: AN IMPRESSIVE TEACHING MEDIUM`,
+                            description: 'The study discusses positive and academic use of mobile technology and social media to enhance student engagement and improve academic performance.',
+                            authors: ['Dr. Ajay B. Kukade'],
                             department: 'Arts',
-                            publicationDate: '2023-11-20',
-                            category: 'Cultural Studies',
-                            abstract: 'This research investigates the growing movement of sustainable art practices among contemporary Indian artists. Through interviews with 75 artists across various mediums - painting, sculpture, installation, and performance art - we document how environmental consciousness is reshaping artistic expression. The study reveals emerging trends in eco-friendly materials usage, waste recycling in art creation, and the role of art in environmental activism. Case studies include prominent artists who have successfully integrated sustainability without compromising artistic integrity. The paper contributes to the discourse on art\'s role in addressing climate change and offers frameworks for sustainable artistic practices.',
-                            keywords: ['Sustainable Art', 'Environmental Art', 'Contemporary Indian Art', 'Eco-friendly Practices'],
-                            downloadUrl: '/downloads/sustainable-art-practices.pdf',
-                            pages: 38,
+                            publicationDate: '2023-02-01',
+                            category: 'Education',
+                            abstract: 'To use mobiles is a common feature of our lives now. Almost all students use mobile and its features a lot. We teachers get angry to see the students in their spare time engaging inmobiles, when we are in college, university campuses. We have to accept the fact that it is a normal thing for young generation to use mobiles. So instead of getting irritated, we need to start focusing on the positives of the technology that would help students in many different ways and also would help us keep calm. The usage of social media like whatsapp, facebook, twitter, telegram, and other applications has grown a lot in recent past. So we need to use it smartly in our communication with students in such manner that students would start spending their online time in more useful activities as far as their studies are concerned. The paper aims at an overview of such activities that would prove beneficial to students in increasing their academic performances.',
+                            keywords: ['Social Media','Mobile Technology', 'Teaching and Learning', 'Academic Performance', 'Educational Technology'],
+                            downloadUrl: 'https://drive.google.com/file/d/1iNRIKoZU9JprLp5VFwX4-IyFXZWAvzuQ/view?usp=sharing',
+                            pages: 234,
                             language: 'English'
                         },
                         {
                             id: '3',
-                            title: 'Financial Inclusion Through Digital Banking in Rural Maharashtra',
-                            description: 'A comprehensive study on how digital banking initiatives have improved financial inclusion among rural populations in Maharashtra state.',
-                            authors: ['Dr. Vinod Deshmukh', 'Prof. Sunita Joshi', 'Dr. Rahul Patil'],
+                            title: `DECLINING GDP GROWTH RATE AND EMPLOYMENT IN THE WAKE OF COVID-19, AND FISCAL STIMULATION`,
+                            description: 'The study examines the combined impact of demonetisation, GST implementation, and the COVID-19 pandemic on India’s economy, with special focus on unemployment and the unorganized sector.',
+                            authors: ['Mrunal Khobragade'],
                             department: 'Commerce',
-                            publicationDate: '2023-09-10',
-                            category: 'Rural Finance',
-                            abstract: 'Financial inclusion remains a critical challenge in rural India, with Maharashtra being a significant case study due to its diverse economic landscape. This paper examines the impact of digital banking initiatives on rural financial inclusion over the past five years. Using data from 200 villages across 15 districts, we analyze adoption patterns, barriers to usage, and socio-economic outcomes. The study employs mixed-method research combining quantitative analysis of banking data with qualitative insights from focus group discussions. Key findings indicate a 65% increase in bank account ownership and a 45% rise in digital transaction adoption. The paper provides policy recommendations for enhancing digital financial services accessibility.',
-                            keywords: ['Financial Inclusion', 'Digital Banking', 'Rural Finance', 'Maharashtra', 'Digital Payments'],
-                            downloadUrl: '/downloads/financial-inclusion-rural.pdf',
-                            pages: 52,
+                            publicationDate: '2023-04-01',
+                            category: 'Economics',
+  abstract: 'The Indian economy experienced a slowdown due to demonetisation and improperly implemented GST, reflected in declining GDP and rising unemployment. The COVID-19 pandemic further intensified this crisis, severely affecting employment, especially in the unorganized sector. Although the government introduced various packages, schemes, and reforms to boost employment, lack of proper coordination has limited their effectiveness.',
+  keywords: [
+    'Demonetisation',
+    'GST',
+    'COVID-19',
+    'Unemployment',
+    'Unorganized Sector',
+    'Indian Economy'
+  ],
+  downloadUrl: 'https://drive.google.com/file/d/1ZfoWcbCeFbMRrYrl9drG1Pa28rLSxLOR/view?usp=sharing',
+                            pages: 336,
                             language: 'English'
                         },
                         {
                             id: '4',
-                            title: 'भारतीय लोककला आणि आधुनिक कलाकृती: एक तुलनात्मक अभ्यास',
-                            description: 'भारतीय पारंपरिक लोककला आणि आधुनिक कलाकृतींमधील साम्य आणि विषमता यांचा सखोल अभ्यास.',
-                            authors: ['डॉ. संजय काळे', 'प्राध्यापक मीरा देशपांडे'],
+                            title: `A STUDY ON EFFECTIVENESS OF NATIONAL DIGITAL REPOSITORY OF IGNOU –EGYANKOSH`,
+                            description: 'The study examines the role of ICT in Open and Distance Learning with special reference to the effectiveness of eGyanKosh as an e-learning platform of IGNOU.',
+                            authors: ['Dr. Bhavana Khapekar'],
                             department: 'Arts',
                             publicationDate: '2023-12-05',
-                            category: 'Folk Art Studies',
-                            abstract: 'हा संशोधन पत्र भारतीय लोककला परंपरा आणि समकालीन कलाकृतींमधील संबंधांचा अभ्यास करतो. महाराष्ट्र, गुजरात, राजस्थान आणि पश्चिम बंगालमधील विविध लोककला प्रकारांचे विश्लेषण करून, आधुनिक कलाकारांनी कशा प्रकारे या पारंपरिक तंत्रांना समकालीन संदर्भात जतन केले आहे याचा अभ्यास केला आहे. या अभ्यासात 150 कलाकारांच्या मुलाखती, कलाकृतींचे विश्लेषण आणि सांस्कृतिक केंद्रांचे सर्वेक्षण समाविष्ट आहे. संशोधनाचे निष्कर्ष दर्शवतात की लोककला परंपरा कशी आधुनिक कलेत नवीन आयाम घेत आहे.',
-                            keywords: ['लोककला', 'आधुनिक कला', 'भारतीय परंपरा', 'सांस्कृतिक अभ्यास', 'कलाकृती विश्लेषण'],
-                            downloadUrl: '/downloads/folk-art-comparative-study.pdf',
-                            pages: 41,
-                            language: 'Marathi'
+                            category: 'Library and Information Science / Education',
+  abstract: 'The use of Information and Communication Technology (ICT) has significantly transformed the Open and Distance Learning system worldwide. Indira Gandhi National Open University (IGNOU) utilizes technology-enabled platforms and innovative teaching methodologies such as teleconferencing, video lectures, CBTs, online resources, and interactive learning. eGyanKosh, IGNOU’s National Digital Repository, plays a vital role in storing, preserving, and disseminating digital learning resources. This paper discusses the effectiveness of eGyanKosh as an e-learning platform for empowering learners.',
+  keywords: [
+    'Information and Communication Technology',
+    'Open and Distance Learning',
+    'IGNOU',
+    'eGyanKosh',
+    'E-Learning'
+  ],
+  downloadUrl: 'https://drive.google.com/file/d/1NcFRsfc7aHx9X3_fCb9RqULKwtYhJhrV/view?usp=sharing',
+                            pages: 94,
+                            language: 'English'
                         },
                         {
                             id: '5',
-                            title: 'Cryptocurrency Adoption and Regulatory Challenges in India',
-                            description: 'Analysis of cryptocurrency adoption trends in India and the evolving regulatory landscape affecting digital asset markets.',
-                            authors: ['Dr. Amit Singh', 'Prof. Neha Agarwal', 'Dr. Kiran Shah'],
-                            department: 'Commerce',
-                            publicationDate: '2024-02-28',
-                            category: 'Digital Finance',
-                            abstract: 'This paper provides a comprehensive analysis of cryptocurrency adoption in India from 2020 to 2024, examining market trends, user demographics, and regulatory developments. Through surveys of 2000+ cryptocurrency users and interviews with industry stakeholders, we map the evolving landscape of digital assets in India. The study analyzes the impact of regulatory announcements on market behavior, adoption patterns across different demographics, and the role of exchanges in promoting financial literacy. Key findings include the significant growth in retail investor participation and the challenges posed by regulatory uncertainty. The paper concludes with recommendations for balanced regulatory frameworks that foster innovation while ensuring consumer protection.',
-                            keywords: ['Cryptocurrency', 'Digital Assets', 'Financial Regulation', 'Blockchain Technology', 'Indian Markets'],
-                            downloadUrl: '/downloads/cryptocurrency-adoption-india.pdf',
+                            title: `A STUDY ON EFFECTIVENESS OF NATIONAL DIGITAL REPOSITORY OF IGNOU –EGYANKOSH`,
+                           description: 'The study highlights the use of ICT in Open and Distance Learning and evaluates the effectiveness of eGyanKosh as an e-learning platform of IGNOU.',
+                            authors: ['Dr. Bhavana Khapekar'],
+                            department: 'Arts',
+                            publicationDate: '2020-01-01',
+                            category: 'Library and Information Science',
+  abstract: 'The use of Information and Communication Technology (ICT) has significantly influenced the Open and Distance Learning (ODL) system worldwide. Indira Gandhi National Open University (IGNOU) delivers its programmes through technology-enabled platforms using innovative teaching methods such as satellite-based teleconferencing, video lectures, computer-based training, internet resources, and interactive online learning. IGNOU’s national digital repository, eGyanKosh, plays a vital role in storing, preserving, and disseminating digital learning resources. This paper discusses the effectiveness of eGyanKosh as an e-learning platform for learners.',
+  keywords: [
+    'Information and Communication Technology',
+    'Open and Distance Learning',
+    'IGNOU',
+    'eGyanKosh',
+    'E-Learning'
+  ],
+  downloadUrl: 'https://drive.google.com/file/d/1qCtO6f6vbnR-siXK00ea7jOIyitffs0z/view?usp=sharing',
                             pages: 47,
                             language: 'English'
                         }

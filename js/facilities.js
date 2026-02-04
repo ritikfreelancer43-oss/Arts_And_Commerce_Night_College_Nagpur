@@ -20,16 +20,16 @@ const stats = [
 
     // Facilities with images
     const facilities = [
-      { title: "Workshops & Seminars", description: "Regular sessions to enhance practical skills and knowledge.", category: "arts", image: "../img/15.png" },
-      { title: "Cultural Programs", description: "Platforms to showcase artistic talents through exhibitions, performances, and festivals.", category: "arts", image: "https://content.jdmagicbox.com/v2/comp/mumbai/90/022p33090/catalogue/elphinstone-college-of-arts-science-and-commerce-fort-mumbai-colleges-358ee-250.jpg" },
+      { title: "Workshops & Seminars", description: "Regular sessions to enhance practical skills and knowledge.", category: "arts", image: "./img/15.png" },
+      { title: "Cultural Programs", description: "Platforms to showcase artistic talents through exhibitions, performances, and festivals.", category: "arts", image: "./img/21.jpg" },
       { title: "Media & Film Lab", description: "Facilities for journalism, film editing, and digital storytelling.", category: "arts", image: "https://www.shutterstock.com/image-photo/electronics-factory-caucasian-male-electrical-260nw-2492758797.jpg" },
-      { title: "Industrial Visits", description: "Gain real-world exposure by visiting industries and connecting classroom learning with practical experience.", category: "commerce", image: "./img/20.png" },
+      { title: "Industrial Visits", description: "Gain real-world exposure by visiting industries and connecting classroom learning with practical experience.", category: "commerce", image: "./img/22.JPEG" },
       { title: "Online Business Learning", description: "Learn anytime, anywhere with our flexible online learning platform.", category: "commerce", image: "./img/c1.png" },
-      { title: "Accounting & Finance Center", description: "Equipped with accounting software, stock market simulations.", category: "commerce", image: "https://www.shutterstock.com/image-photo/electronics-factory-caucasian-male-electrical-260nw-2492758797.jpg" },
+      { title: "Accounting & Finance Center", description: "Equipped with accounting software, stock market simulations.", category: "commerce", image: "./img/27.JPEG" },
       { title: "Leadership through Voice", description: "Encourages students to analyze topics deeply and present well-structured arguments.", category: "life", image: "./img/l2.png" },
       { title: "Mindfulness & Meditation Yoga", description: "A blend of yoga and meditation practices to enhance concentration and inner peace.", category: "life", image: "./img/l1.png" },
-      { title: "Accounting & Finance Center", description: "Equipped with accounting software, stock market simulations.", category: "commerce", image: "https://images.pexels.com/photos/1326947/pexels-photo-1326947.jpeg?cs=srgb&dl=pexels-george-dolgikh-551816-1326947.jpg&fm=jpg" },
-      { title: "Exploration & Learning", description: "Trips designed to broaden horizons, explore new cultures, and learn beyond the classroom.", category: "life", image: "./img/9.jpg" }
+      { title: "Annual Athletic Meet", description: "Annual sports event showcasing student talents and team spirit.", category: "life", image: "./img/26.JPEG" },
+      { title: "Exploration & Learning", description: "Trips designed to broaden horizons, explore new cultures, and learn beyond the classroom.", category: "commerce", image: "./img/9.jpg" }
       
     ];
 

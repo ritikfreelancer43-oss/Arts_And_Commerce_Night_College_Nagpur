@@ -2,7 +2,7 @@
       title: "Excellence in Education",
       description: "Our integrated approach combines traditional academic rigor with innovative teaching methods, ensuring students develop both intellectual curiosity and practical skills for the 21st century.",
       button: "View Full Curriculum",
-      image: "https://thumbs.dreamstime.com/b/successful-hispanic-female-student-group-multi-ethnic-college-students-classroom-university-178637283.jpg"
+      image: "./img/25.JPEG"
     };
 
     const programs = [
@@ -47,20 +47,35 @@
     // ---------------------
     // Student Life Data
     // ---------------------
+    // const highlights = [
+    //   {
+    //     title: "Vibrant Life",
+    //     description: "Students engage in diverse activities that build friendships, develop skills, and create lasting memories.",
+    //     stats: ["95% Student Participation", "200+ Events", "Joyful Journey"],
+    //     image: "https://media.istockphoto.com/id/2105100634/photo/happy-university-students-e-learning-while-using-laptop-at-campus.jpg?s=612x612&w=0&k=20&c=aM5zY2HI6Nu5xBFxtT0RgrVSBqmfj6MUlt6cVMCI-N8="
+    //   },
+    //   {
+    //     title: "Leadership Hub",
+    //     description: "State-of-the-art facilities including maker spaces, science labs, and technology centers.",
+    //     stats: ["Future Leaders", "Empower And Grow", "Inspire To Lead"],
+    //     image: "https://thumbs.dreamstime.com/b/successful-hispanic-female-student-group-multi-ethnic-college-students-classroom-university-178637283.jpg"
+    //   }
+    // ];
     const highlights = [
-      {
-        title: "Vibrant Life",
-        description: "Students engage in diverse activities that build friendships, develop skills, and create lasting memories.",
-        stats: ["95% Student Participation", "200+ Events", "Joyful Journey"],
-        image: "https://media.istockphoto.com/id/2105100634/photo/happy-university-students-e-learning-while-using-laptop-at-campus.jpg?s=612x612&w=0&k=20&c=aM5zY2HI6Nu5xBFxtT0RgrVSBqmfj6MUlt6cVMCI-N8="
-      },
-      {
-        title: "Leadership Hub",
-        description: "State-of-the-art facilities including maker spaces, science labs, and technology centers.",
-        stats: ["Future Leaders", "Empower And Grow", "Inspire To Lead"],
-        image: "https://thumbs.dreamstime.com/b/successful-hispanic-female-student-group-multi-ethnic-college-students-classroom-university-178637283.jpg"
-      }
-    ];
+  {
+    title: "Enriching Student Life",
+    description: "The college promotes holistic development through academic excellence, cultural activities, sports, and social initiatives rooted in Indian values.",
+    stats: ["90% Student Participation", "150+ Annual Activities", "Values & Culture"],
+    image: "./img/l2.png"
+  },
+  {
+    title: "Centre for Arts & Commerce Education",
+    description: "Well-qualified faculty, modern classrooms, a rich library, and computer laboratories support quality education in Arts and Commerce streams.",
+    stats: ["Experienced Faculty", "Skill-Based Learning", "Career-Oriented Education"],
+    image: "./img/7.jpg"
+  }
+];
+
 
     const activities = [
       { icon: "fas fa-trophy", title: "Sports & Athletics", description: "Competitive and recreational sports programs for all skill levels.", highlight: "Diverse Sports Teams" },
