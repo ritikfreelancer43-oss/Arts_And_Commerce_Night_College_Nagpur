@@ -28,7 +28,7 @@ const stats = [
       { title: "Accounting & Finance Center", description: "Equipped with accounting software, stock market simulations.", category: "commerce", image: "./img/27.JPEG" },
       { title: "Leadership through Voice", description: "Encourages students to analyze topics deeply and present well-structured arguments.", category: "life", image: "./img/l2.png" },
       { title: "Mindfulness & Meditation Yoga", description: "A blend of yoga and meditation practices to enhance concentration and inner peace.", category: "life", image: "./img/l1.png" },
-      { title: "Annual Athletic Meet", description: "Annual sports event showcasing student talents and team spirit.", category: "life", image: "./img/26.JPEG" },
+      { title: "Annual Athletic Meet", description: "Annual sports event showcasing student talents and team spirit.", category: "life", image: "img/26.JPEG" },
       { title: "Exploration & Learning", description: "Trips designed to broaden horizons, explore new cultures, and learn beyond the classroom.", category: "commerce", image: "./img/9.jpg" }
       
     ];
@@ -56,4 +56,5 @@ const stats = [
 
     renderFacilities("arts", "arts-facilities");
     renderFacilities("commerce", "commerce-facilities");
+
     renderFacilities("life", "life-facilities");
