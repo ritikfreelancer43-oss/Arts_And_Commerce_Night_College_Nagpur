@@ -1,5 +1,5 @@
   const imageSources = [
-        { src: "./img/24.jpeg", alt: "Bloom School Campus" },
+        { src: "img/24.jpeg", alt: "Bloom School Campus" },
         { src: "https://content.jdmagicbox.com/v2/comp/delhi/l2/011pxx11.xx11.170919220015.u9l2/catalogue/aicte-office-vasant-vihar-delhi-schools-2mpw1ridwr.jpg", alt: "Bloom School Library" },
         { src: "https://images.shiksha.com/mediadata/images/1526979654phpXmuhOZ.jpeg", alt: "Bloom School Sports Ground" }
     ];
@@ -48,3 +48,4 @@
 
 
     setInterval(nextSlide, 4000); // Auto-slide every 4s
+
