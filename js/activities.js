@@ -2,7 +2,7 @@
       title: "Excellence in Education",
       description: "Our integrated approach combines traditional academic rigor with innovative teaching methods, ensuring students develop both intellectual curiosity and practical skills for the 21st century.",
       button: "View Full Curriculum",
-      image: "./img/25.JPEG"
+      image: "img/25.JPEG"
     };
 
     const programs = [
@@ -143,4 +143,5 @@
         <div class="author-name">${testimonial.author}</div>
         <div class="author-title">${testimonial.title}</div>
       </div>
+
     `;
